@@ -1,0 +1,10 @@
+1.Difference between span and div
+2.Difference between HTML4 and HTML5
+ for the following tagsThe main difference between HTML 4 and HTML 5 is that HTML 4 is the 4th and older version of HTML with fewer features and tags while HTML 5 is the extension of HTML4 and the 5th version of HTML which has new and simple features and has multiple new tags.
+
+3.
+Go to Insert > Header or Footer.
+Choose the header style you want to use.
+Add or change text for the header or footer. For more info on things you can do with headers, see Edit your existing headers and footers. To edit a header or footer that's been already created, double-click on it.
+To eliminate a header--like deleting it on the title page--select it and then check the Different First Page box. 
+
